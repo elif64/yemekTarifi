@@ -1,4 +1,4 @@
-#Yemek Tarifleri Demo
+# Yemek Tarif Demo
 
 <p align= "center" >
   <img 
